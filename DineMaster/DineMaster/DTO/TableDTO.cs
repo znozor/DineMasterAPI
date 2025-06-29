@@ -1,26 +1,22 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace DineMaster.Models
+namespace DineMaster.DTO
 {
-    public class Table
+    public class TableDTO
     {
-        [Key]
         public int TableId { get; set; }
 
-        [Required]
         public string TableName { get; set; }
 
-        [Required]
         public int Capacity { get; set; }
 
         public string Status { get; set; } = "Available";
 
+
         public DateTime CreatedAt { get; set; }
-        public string CreatedBy { get; set; }
+        public string? CreatedBy { get; set; }
         public DateTime? ModifiedAt { get; set; }
         public string? ModifiedBy { get; set; }
 
-        public List<Reservation> Reservations { get; set; }
-        public List<Order> Orders { get; set; }
     }
 }

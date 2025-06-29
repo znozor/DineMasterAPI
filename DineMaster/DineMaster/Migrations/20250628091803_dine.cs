@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace DineMaster.Migrations
 {
     /// <inheritdoc />
-    public partial class first : Migration
+    public partial class dine : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

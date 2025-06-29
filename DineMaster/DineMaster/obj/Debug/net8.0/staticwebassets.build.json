@@ -1,12 +1,11 @@
 {
   "Version": 1,
-  "Hash": "Ntaqtv5U4rhjqm3vhO/seWUVziIJwXmiT3FNoUd4t1w=",
+  "Hash": "+PjTTkw0HN9W1qJNHIuTCaneNJCOxSFFA3HHjbSJaJg=",
   "Source": "DineMaster",
   "BasePath": "_content/DineMaster",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }

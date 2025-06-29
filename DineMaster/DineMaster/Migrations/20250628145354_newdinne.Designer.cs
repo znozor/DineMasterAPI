@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DineMaster.Migrations
 {
     [DbContext(typeof(DineMasterDbContext))]
-    [Migration("20250626171930_first")]
-    partial class first
+    [Migration("20250628145354_newdinne")]
+    partial class newdinne
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -497,6 +497,19 @@ namespace DineMaster.Migrations
 
                     b.Property<int>("Capacity")
                         .HasColumnType("int");
+
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("CreatedBy")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime?>("ModifiedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("ModifiedBy")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("TableName")
                         .IsRequired()

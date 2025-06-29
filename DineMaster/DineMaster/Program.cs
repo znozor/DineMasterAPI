@@ -1,4 +1,6 @@
 using DineMaster.Data;
+using DineMaster.Repository;
+using DineMaster.Service;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -14,6 +16,9 @@ builder.Services.AddDbContext<DineMasterDbContext>
             builder.Configuration.GetConnectionString("dbconn")
         )
     );
+
+builder.Services.AddScoped<ITableRepo, TableService>();
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
