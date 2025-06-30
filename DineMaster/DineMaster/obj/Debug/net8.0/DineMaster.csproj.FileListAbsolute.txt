@@ -84,6 +84,8 @@ C:\Users\91639\OneDrive\Documents\GitHub\DineMasterAPI\DineMaster\DineMaster\bin
 C:\Users\91639\OneDrive\Documents\GitHub\DineMasterAPI\DineMaster\DineMaster\bin\Debug\net8.0\DineMaster.runtimeconfig.json
 C:\Users\91639\OneDrive\Documents\GitHub\DineMasterAPI\DineMaster\DineMaster\bin\Debug\net8.0\DineMaster.dll
 C:\Users\91639\OneDrive\Documents\GitHub\DineMasterAPI\DineMaster\DineMaster\bin\Debug\net8.0\DineMaster.pdb
+C:\Users\91639\OneDrive\Documents\GitHub\DineMasterAPI\DineMaster\DineMaster\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\91639\OneDrive\Documents\GitHub\DineMasterAPI\DineMaster\DineMaster\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\91639\OneDrive\Documents\GitHub\DineMasterAPI\DineMaster\DineMaster\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\91639\OneDrive\Documents\GitHub\DineMasterAPI\DineMaster\DineMaster\bin\Debug\net8.0\Azure.Identity.dll
 C:\Users\91639\OneDrive\Documents\GitHub\DineMasterAPI\DineMaster\DineMaster\bin\Debug\net8.0\Humanizer.dll

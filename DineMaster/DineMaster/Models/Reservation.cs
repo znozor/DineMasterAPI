@@ -15,8 +15,8 @@ namespace DineMaster.Models
 
         public int GuestCount { get; set; }
 
-        public TimeOnly StartTime { get; set; }
-        public TimeOnly EndTime { get; set; }
+        public TimeSpan StartTime { get; set; }
+        public TimeSpan EndTime { get; set; }
 
 
 
@@ -37,6 +37,10 @@ namespace DineMaster.Models
 
         [ForeignKey("AssignedWaiter")]
         public int? AssignedWaiterId { get; set; }
-        public User AssignedWaiter { get; set; }
+        public User? AssignedWaiter { get; set; }
+
+        [ForeignKey("ReservationSlot")]
+        public int? SlotId { get; set; }
+        public ReservationSlot? ReservationSlot { get; set; }
     }
 }

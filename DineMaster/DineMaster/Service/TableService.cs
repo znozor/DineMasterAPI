@@ -4,6 +4,7 @@ using DineMaster.Models;
 using DineMaster.Repository;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace DineMaster.Service
 {
@@ -18,7 +19,7 @@ namespace DineMaster.Service
 
         public async Task<TableDTO> Addtable(TableDTO dto )
         {
-            var tb = new Table()
+            var tb = new Models.Table()
             {
                 TableName = dto.TableName,
                 Capacity = dto.Capacity,
@@ -36,13 +37,13 @@ namespace DineMaster.Service
             
         }
 
-        public async Task<IEnumerable<Table>> GetAllTables()
+        public async Task<IEnumerable<Models.Table>> GetAllTables()
         {
             return await _db.Tables.ToListAsync();
             
         }
 
-        public async Task<Table> FindById(int id)
+        public async Task<Models.Table> FindById(int id)
         {
             
              var data = await _db.Tables.FirstOrDefaultAsync(x => x.TableId == id);
@@ -54,16 +55,43 @@ namespace DineMaster.Service
         public async Task<bool> DeleteTable(int id)
         {
             var del = await _db.Tables.FindAsync(id);
-            if(del==null)
+            if (del == null)
             {
                 return false;
             }
 
-             _db.Tables.Remove(del);
+            _db.Tables.Remove(del);
             await _db.SaveChangesAsync();
             return true;
 
         }
+
+
+
+        //public async Task<bool> DeleteTable(int id)
+        //{
+        //    bool hasFutureReservations = await _db.Reservations
+        //.AnyAsync(r => r.TableId == id && r.ReservationDate >= DateTime.Today);
+
+        //    if (hasFutureReservations)
+        //    {
+        //        // Prevent deletion if future reservations exist
+        //        return false;
+        //    }
+
+        //    var table = await _db.Tables.FindAsync(id);
+        //    if (table == null) return false;
+
+        //    _db.Tables.Remove(table);
+        //    await _db.SaveChangesAsync();
+
+        //    return true;
+
+        //}
+
+
+
+
 
         public async Task<bool> EditTable(TableDTO dto)
         {

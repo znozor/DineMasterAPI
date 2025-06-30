@@ -47,12 +47,26 @@ namespace DineMaster.Controllers
         public async Task<IActionResult> DeleteTable(int id)
         {
             var deleted = await _repo.DeleteTable(id);
-            if(!deleted)
+            if (!deleted)
             {
                 return NotFound();
             }
             return Ok("Deleted Successful");
         }
+
+
+
+        //[HttpDelete("DeleteTable/{id}")]
+        //public async Task<IActionResult> DeleteTable(int id)
+        //{
+        //    bool deleted = await _repo.DeleteTable(id);
+
+        //    if (!deleted)
+        //        return BadRequest("Cannot delete table. Future reservations exist or table not found.");
+
+        //    return Ok("Table deleted successfully.");
+        //}
+
 
 
         [HttpPut]

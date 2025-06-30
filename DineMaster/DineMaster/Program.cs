@@ -18,6 +18,7 @@ builder.Services.AddDbContext<DineMasterDbContext>
     );
 
 builder.Services.AddScoped<ITableRepo, TableService>();
+builder.Services.AddScoped<IReservationRepo, ReservationService>(); 
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();

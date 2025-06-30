@@ -4,6 +4,7 @@ using DineMaster.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DineMaster.Migrations
 {
     [DbContext(typeof(DineMasterDbContext))]
-    partial class DineMasterDbContextModelSnapshot : ModelSnapshot
+    [Migration("20250629153829_nn")]
+    partial class nn
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -347,7 +350,7 @@ namespace DineMaster.Migrations
                     b.Property<DateTime>("ReservationDate")
                         .HasColumnType("datetime2");
 
-                    b.Property<int?>("SlotId")
+                    b.Property<int?>("ReservationSlotSlotId")
                         .HasColumnType("int");
 
                     b.Property<TimeSpan>("StartTime")
@@ -367,7 +370,7 @@ namespace DineMaster.Migrations
 
                     b.HasIndex("AssignedWaiterId");
 
-                    b.HasIndex("SlotId");
+                    b.HasIndex("ReservationSlotSlotId");
 
                     b.HasIndex("TableId");
 
@@ -732,9 +735,9 @@ namespace DineMaster.Migrations
                         .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
-                    b.HasOne("DineMaster.Models.ReservationSlot", "ReservationSlot")
+                    b.HasOne("DineMaster.Models.ReservationSlot", null)
                         .WithMany("Reservations")
-                        .HasForeignKey("SlotId")
+                        .HasForeignKey("ReservationSlotSlotId")
                         .OnDelete(DeleteBehavior.Restrict);
 
                     b.HasOne("DineMaster.Models.Table", "Table")
@@ -750,8 +753,6 @@ namespace DineMaster.Migrations
                         .IsRequired();
 
                     b.Navigation("AssignedWaiter");
-
-                    b.Navigation("ReservationSlot");
 
                     b.Navigation("Table");
 
