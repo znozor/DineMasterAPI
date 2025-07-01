@@ -207,8 +207,6 @@ namespace DineMaster.Service
                         WaiterName = r.AssignedWaiter != null ? r.AssignedWaiter.Username : null
                     })
                     .ToListAsync();
-            
-
 
 
         }

@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\91639\\onedrive\\documents\\github\\dinemasterapi\\dinemaster\\dinemaster\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\91639\\onedrive\\documents\\github\\dinemasterapi\\dinemaster\\dinemaster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\91639\\onedrive\\documents\\github\\dinemasterapi\\dinemaster\\dinemaster\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\91639\\onedrive\\documents\\github\\dinemasterapi\\dinemaster\\dinemaster\\service\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\service\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\91639\\onedrive\\documents\\github\\dinemasterapi\\dinemaster\\dinemaster\\repository\\ireservationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\repository\\ireservationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\91639\\onedrive\\documents\\github\\dinemasterapi\\dinemaster\\dinemaster\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\91639\\onedrive\\documents\\github\\dinemasterapi\\dinemaster\\dinemaster\\repository\\itablerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\repository\\itablerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\91639\\onedrive\\documents\\github\\dinemasterapi\\dinemaster\\dinemaster\\service\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\service\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\91639\\onedrive\\documents\\github\\dinemasterapi\\dinemaster\\dinemaster\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\91639\\onedrive\\documents\\github\\dinemasterapi\\dinemaster\\dinemaster\\repository\\ireservationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\repository\\ireservationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\91639\\onedrive\\documents\\github\\dinemasterapi\\dinemaster\\dinemaster\\enum\\reservationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\91639\\onedrive\\documents\\github\\dinemasterapi\\dinemaster\\dinemaster\\service\\tableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\service\\tableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\91639\\onedrive\\documents\\github\\dinemasterapi\\dinemaster\\dinemaster\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\91639\\onedrive\\documents\\github\\dinemasterapi\\dinemaster\\dinemaster\\dto\\reservationcanceldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -69,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\91639\\onedrive\\documents\\github\\dinemasterapi\\dinemaster\\dinemaster\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\91639\\onedrive\\documents\\github\\dinemasterapi\\dinemaster\\dinemaster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\91639\\onedrive\\documents\\github\\dinemasterapi\\dinemaster\\dinemaster\\migrations\\dinemasterdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -150,7 +150,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 21,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Bookmark",
@@ -202,83 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ReservationController.cs",
-              "DocumentMoniker": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\Controllers\\ReservationController.cs",
-              "RelativeDocumentMoniker": "DineMaster\\Controllers\\ReservationController.cs",
-              "ToolTip": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\Controllers\\ReservationController.cs",
-              "RelativeToolTip": "DineMaster\\Controllers\\ReservationController.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAAB4AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T10:56:39.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TableDTO.cs",
-              "DocumentMoniker": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\DTO\\TableDTO.cs",
-              "RelativeDocumentMoniker": "DineMaster\\DTO\\TableDTO.cs",
-              "ToolTip": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\DTO\\TableDTO.cs",
-              "RelativeToolTip": "DineMaster\\DTO\\TableDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T13:47:15.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\Models\\User.cs",
-              "RelativeDocumentMoniker": "DineMaster\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\Models\\User.cs",
-              "RelativeToolTip": "DineMaster\\Models\\User.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T16:27:42.521Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AdminReservationDTO.cs",
-              "DocumentMoniker": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\DTO\\AdminReservationDTO.cs",
-              "RelativeDocumentMoniker": "DineMaster\\DTO\\AdminReservationDTO.cs",
-              "ToolTip": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\DTO\\AdminReservationDTO.cs",
-              "RelativeToolTip": "DineMaster\\DTO\\AdminReservationDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T18:38:27.942Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ReservationService.cs",
-              "DocumentMoniker": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\Service\\ReservationService.cs",
-              "RelativeDocumentMoniker": "DineMaster\\Service\\ReservationService.cs",
-              "ToolTip": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\Service\\ReservationService.cs",
-              "RelativeToolTip": "DineMaster\\Service\\ReservationService.cs",
-              "ViewState": "AQIAAAsBAAAAAAAAAAAAwBQBAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T10:56:05.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IReservationRepo.cs",
-              "DocumentMoniker": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\Repository\\IReservationRepo.cs",
-              "RelativeDocumentMoniker": "DineMaster\\Repository\\IReservationRepo.cs",
-              "ToolTip": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\Repository\\IReservationRepo.cs",
-              "RelativeToolTip": "DineMaster\\Repository\\IReservationRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T10:55:43.83Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "ITableRepo.cs",
               "DocumentMoniker": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\Repository\\ITableRepo.cs",
               "RelativeDocumentMoniker": "DineMaster\\Repository\\ITableRepo.cs",
@@ -291,19 +215,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "TableController.cs",
               "DocumentMoniker": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\Controllers\\TableController.cs",
               "RelativeDocumentMoniker": "DineMaster\\Controllers\\TableController.cs",
               "ToolTip": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\Controllers\\TableController.cs",
               "RelativeToolTip": "DineMaster\\Controllers\\TableController.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAAADcAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T14:33:07.028Z"
+              "WhenOpened": "2025-06-28T14:33:07.028Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ReservationStatus.cs",
               "DocumentMoniker": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\Enum\\ReservationStatus.cs",
               "RelativeDocumentMoniker": "DineMaster\\Enum\\ReservationStatus.cs",
@@ -311,25 +236,23 @@
               "RelativeToolTip": "DineMaster\\Enum\\ReservationStatus.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T20:30:17.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T20:30:17.704Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Reservation.cs",
               "DocumentMoniker": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\Models\\Reservation.cs",
               "RelativeDocumentMoniker": "DineMaster\\Models\\Reservation.cs",
               "ToolTip": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\Models\\Reservation.cs",
               "RelativeToolTip": "DineMaster\\Models\\Reservation.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T16:32:05.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-26T16:32:05.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "20250629185849_hhgy.cs",
               "DocumentMoniker": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\Migrations\\20250629185849_hhgy.cs",
               "RelativeDocumentMoniker": "DineMaster\\Migrations\\20250629185849_hhgy.cs",
@@ -337,12 +260,11 @@
               "RelativeToolTip": "DineMaster\\Migrations\\20250629185849_hhgy.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T18:58:50.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-29T18:58:50.023Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "TableService.cs",
               "DocumentMoniker": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\Service\\TableService.cs",
               "RelativeDocumentMoniker": "DineMaster\\Service\\TableService.cs",
@@ -350,12 +272,98 @@
               "RelativeToolTip": "DineMaster\\Service\\TableService.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAAEAAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T13:49:22.427Z",
+              "WhenOpened": "2025-06-28T13:49:22.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\Program.cs",
+              "RelativeDocumentMoniker": "DineMaster\\Program.cs",
+              "ToolTip": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\Program.cs",
+              "RelativeToolTip": "DineMaster\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T17:12:30.632Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DineMaster\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\Models\\User.cs",
+              "RelativeToolTip": "DineMaster\\Models\\User.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:27:42.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "DineMaster\\Controllers\\ReservationController.cs",
+              "ToolTip": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "DineMaster\\Controllers\\ReservationController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T10:56:39.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\Service\\ReservationService.cs",
+              "RelativeDocumentMoniker": "DineMaster\\Service\\ReservationService.cs",
+              "ToolTip": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\Service\\ReservationService.cs",
+              "RelativeToolTip": "DineMaster\\Service\\ReservationService.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAGwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T10:56:05.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IReservationRepo.cs",
+              "DocumentMoniker": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\Repository\\IReservationRepo.cs",
+              "RelativeDocumentMoniker": "DineMaster\\Repository\\IReservationRepo.cs",
+              "ToolTip": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\Repository\\IReservationRepo.cs",
+              "RelativeToolTip": "DineMaster\\Repository\\IReservationRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T10:55:43.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminReservationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\DTO\\AdminReservationDTO.cs",
+              "RelativeDocumentMoniker": "DineMaster\\DTO\\AdminReservationDTO.cs",
+              "ToolTip": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\DTO\\AdminReservationDTO.cs",
+              "RelativeToolTip": "DineMaster\\DTO\\AdminReservationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T18:38:27.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TableDTO.cs",
+              "DocumentMoniker": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\DTO\\TableDTO.cs",
+              "RelativeDocumentMoniker": "DineMaster\\DTO\\TableDTO.cs",
+              "ToolTip": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\DTO\\TableDTO.cs",
+              "RelativeToolTip": "DineMaster\\DTO\\TableDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T13:47:15.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ReservationCancelDTO.cs",
               "DocumentMoniker": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\DTO\\ReservationCancelDTO.cs",
               "RelativeDocumentMoniker": "DineMaster\\DTO\\ReservationCancelDTO.cs",
@@ -367,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ReservationDetailsDTO.cs",
               "DocumentMoniker": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\DTO\\ReservationDetailsDTO.cs",
               "RelativeDocumentMoniker": "DineMaster\\DTO\\ReservationDetailsDTO.cs",
@@ -379,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ReservationSlot.cs",
               "DocumentMoniker": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\Models\\ReservationSlot.cs",
               "RelativeDocumentMoniker": "DineMaster\\Models\\ReservationSlot.cs",
@@ -391,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "CustomerReservationDTO.cs",
               "DocumentMoniker": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\DTO\\CustomerReservationDTO.cs",
               "RelativeDocumentMoniker": "DineMaster\\DTO\\CustomerReservationDTO.cs",
@@ -404,18 +412,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\Program.cs",
-              "RelativeDocumentMoniker": "DineMaster\\Program.cs",
-              "ToolTip": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\Program.cs",
-              "RelativeToolTip": "DineMaster\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T17:12:30.632Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "Table.cs",
               "DocumentMoniker": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\Models\\Table.cs",
               "RelativeDocumentMoniker": "DineMaster\\Models\\Table.cs",

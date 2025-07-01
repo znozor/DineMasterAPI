@@ -76,7 +76,7 @@ namespace DineMaster.Controllers
         public async Task<IActionResult> CancelReservation(ReservationCancelDTO dto)
         {
             await _repo.CancelReservation(dto);
-            return Ok("Cancelled Successfully");
+            return Ok(new {message = "Cancelled Successfully" });
         }
 
         [HttpGet]
@@ -88,7 +88,7 @@ namespace DineMaster.Controllers
 
                 if (reservations == null || !reservations.Any())
                 {
-                    return NotFound("No upcoming reservations found.");
+                    return NotFound(new {message = "No upcoming reservations found." });
                 }
 
                 return Ok(reservations);
@@ -131,7 +131,7 @@ namespace DineMaster.Controllers
             if (!result)
                 return NotFound("Reservation not found");
 
-            return Ok("Reservation marked as completed");
+            return Ok(new {message = "Reservation marked as completed" });
         }
 
     }

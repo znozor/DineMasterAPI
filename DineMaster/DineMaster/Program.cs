@@ -17,6 +17,18 @@ builder.Services.AddDbContext<DineMasterDbContext>
         )
     );
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("MyApp",
+        policy =>
+        {
+            policy.WithOrigins("http://localhost:4200")
+                  .AllowAnyHeader()
+                  .AllowAnyMethod()
+                  .AllowCredentials();
+        });
+});
+
 builder.Services.AddScoped<ITableRepo, TableService>();
 builder.Services.AddScoped<IReservationRepo, ReservationService>(); 
 
@@ -35,6 +47,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseCors("MyApp");
 
 app.UseAuthorization();
 

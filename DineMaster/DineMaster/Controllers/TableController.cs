@@ -22,7 +22,7 @@ namespace DineMaster.Controllers
         {
             dto.CreatedBy = "Admin";
             await _repo.Addtable(dto);
-            return Ok("Added Success");
+            return Ok(new {message = "Added Success" });
         }
 
         [HttpGet]
@@ -51,7 +51,7 @@ namespace DineMaster.Controllers
             {
                 return NotFound();
             }
-            return Ok("Deleted Successful");
+            return Ok(new {message = "Deleted Successful" });
         }
 
 
