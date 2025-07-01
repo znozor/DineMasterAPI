@@ -14,11 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DineMaster")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< Updated upstream
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b4b1f781d61f1f09902c98413227b896db75c52")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c34be6fad7c85465d8fd70f398d766c6c6940e8")]
->>>>>>> Stashed changes
 [assembly: System.Reflection.AssemblyProductAttribute("DineMaster")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DineMaster")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

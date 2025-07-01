@@ -1,8 +1,4 @@
 using DineMaster.Data;
-<<<<<<< Updated upstream
-=======
-using DineMaster.Mapper;
->>>>>>> Stashed changes
 using DineMaster.Repository;
 using DineMaster.Service;
 using Microsoft.EntityFrameworkCore;
@@ -27,11 +23,6 @@ builder.Services.AddScoped<IReservationRepo, ReservationService>();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-//builder.Services.AddScoped<IMenuCategoryRepo, MenuCategoryServices>();
-builder.Services.AddScoped<IMenuCategoryRepo, MenuCategoryServices>();
-builder.Services.AddScoped<IMenuItemRepo, MenuItemServices>();
-builder.Services.AddAutoMapper(typeof(MappingData));
-
 
 
 var app = builder.Build();

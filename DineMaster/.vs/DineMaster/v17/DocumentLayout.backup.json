@@ -1,38 +1,90 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\",
+  "WorkspaceRootPath": "D:\\Shakil\\Masstech\\DineMaster\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\gandhar\\downloads\\dinemasterapi\\dinemaster\\dinemaster\\mapper\\mappingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\mapper\\mappingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|d:\\shakil\\masstech\\dinemaster\\dinemaster\\migrations\\20250626171930_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\migrations\\20250626171930_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\gandhar\\downloads\\dinemasterapi\\dinemaster\\dinemaster\\controllers\\menuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\controllers\\menuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|d:\\shakil\\masstech\\dinemaster\\dinemaster\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\gandhar\\downloads\\dinemasterapi\\dinemaster\\dinemaster\\service\\menuitemservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\service\\menuitemservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|d:\\shakil\\masstech\\dinemaster\\dinemaster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\gandhar\\downloads\\dinemasterapi\\dinemaster\\dinemaster\\repository\\imenuitemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\repository\\imenuitemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|d:\\shakil\\masstech\\dinemaster\\dinemaster\\data\\dinemasterdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\data\\dinemasterdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\gandhar\\downloads\\dinemasterapi\\dinemaster\\dinemaster\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|d:\\shakil\\masstech\\dinemaster\\dinemaster\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|d:\\shakil\\masstech\\dinemaster\\dinemaster\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|d:\\shakil\\masstech\\dinemaster\\dinemaster\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|d:\\shakil\\masstech\\dinemaster\\dinemaster\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|d:\\shakil\\masstech\\dinemaster\\dinemaster\\models\\purchaseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\models\\purchaseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|d:\\shakil\\masstech\\dinemaster\\dinemaster\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|d:\\shakil\\masstech\\dinemaster\\dinemaster\\models\\reservationslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\models\\reservationslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|d:\\shakil\\masstech\\dinemaster\\dinemaster\\models\\shiftmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\models\\shiftmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|d:\\shakil\\masstech\\dinemaster\\dinemaster\\models\\staffshift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\models\\staffshift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|d:\\shakil\\masstech\\dinemaster\\dinemaster\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|d:\\shakil\\masstech\\dinemaster\\dinemaster\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|d:\\shakil\\masstech\\dinemaster\\dinemaster\\models\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\models\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|d:\\shakil\\masstech\\dinemaster\\dinemaster\\models\\menuitemingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\models\\menuitemingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|d:\\shakil\\masstech\\dinemaster\\dinemaster\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\gandhar\\downloads\\dinemasterapi\\dinemaster\\dinemaster\\dto\\menuitemupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\dto\\menuitemupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|d:\\shakil\\masstech\\dinemaster\\dinemaster\\models\\menucategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\models\\menucategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\gandhar\\downloads\\dinemasterapi\\dinemaster\\dinemaster\\dto\\menuitemcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\dto\\menuitemcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|d:\\shakil\\masstech\\dinemaster\\dinemaster\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\gandhar\\downloads\\dinemasterapi\\dinemaster\\dinemaster\\dto\\menuitemreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\dto\\menuitemreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|d:\\shakil\\masstech\\dinemaster\\dinemaster\\models\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\models\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,47 +94,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:1578389772:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -90,129 +106,256 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MenuItemServices.cs",
-              "DocumentMoniker": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\DineMaster\\Service\\MenuItemServices.cs",
-              "RelativeDocumentMoniker": "DineMaster\\Service\\MenuItemServices.cs",
-              "ToolTip": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\DineMaster\\Service\\MenuItemServices.cs",
-              "RelativeToolTip": "DineMaster\\Service\\MenuItemServices.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwCIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T11:24:30.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IMenuItemRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\DineMaster\\Repository\\IMenuItemRepo.cs",
-              "RelativeDocumentMoniker": "DineMaster\\Repository\\IMenuItemRepo.cs",
-              "ToolTip": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\DineMaster\\Repository\\IMenuItemRepo.cs",
-              "RelativeToolTip": "DineMaster\\Repository\\IMenuItemRepo.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T11:24:27.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MenuItemCreateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\DineMaster\\DTO\\MenuItemCreateDTO.cs",
-              "RelativeDocumentMoniker": "DineMaster\\DTO\\MenuItemCreateDTO.cs",
-              "ToolTip": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\DineMaster\\DTO\\MenuItemCreateDTO.cs",
-              "RelativeToolTip": "DineMaster\\DTO\\MenuItemCreateDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T11:26:59.813Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MenuItemReadDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\DineMaster\\DTO\\MenuItemReadDTO.cs",
-              "RelativeDocumentMoniker": "DineMaster\\DTO\\MenuItemReadDTO.cs",
-              "ToolTip": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\DineMaster\\DTO\\MenuItemReadDTO.cs",
-              "RelativeToolTip": "DineMaster\\DTO\\MenuItemReadDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T11:27:01.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MenuItem.cs",
-              "DocumentMoniker": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\DineMaster\\Models\\MenuItem.cs",
-              "RelativeDocumentMoniker": "DineMaster\\Models\\MenuItem.cs",
-              "ToolTip": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\DineMaster\\Models\\MenuItem.cs",
-              "RelativeToolTip": "DineMaster\\Models\\MenuItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T11:30:28.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MenuItemUpdateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\DineMaster\\DTO\\MenuItemUpdateDTO.cs",
-              "RelativeDocumentMoniker": "DineMaster\\DTO\\MenuItemUpdateDTO.cs",
-              "ToolTip": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\DineMaster\\DTO\\MenuItemUpdateDTO.cs",
-              "RelativeToolTip": "DineMaster\\DTO\\MenuItemUpdateDTO.cs",
+              "DocumentIndex": 0,
+              "Title": "20250626171930_first.cs",
+              "DocumentMoniker": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Migrations\\20250626171930_first.cs",
+              "RelativeDocumentMoniker": "DineMaster\\Migrations\\20250626171930_first.cs",
+              "ToolTip": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Migrations\\20250626171930_first.cs",
+              "RelativeToolTip": "DineMaster\\Migrations\\20250626171930_first.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T11:27:02.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MappingData.cs",
-              "DocumentMoniker": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\DineMaster\\Mapper\\MappingData.cs",
-              "RelativeDocumentMoniker": "DineMaster\\Mapper\\MappingData.cs",
-              "ToolTip": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\DineMaster\\Mapper\\MappingData.cs",
-              "RelativeToolTip": "DineMaster\\Mapper\\MappingData.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T11:27:10.718Z",
+              "WhenOpened": "2025-06-26T17:19:31.45Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MenuItemController.cs",
-              "DocumentMoniker": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\DineMaster\\Controllers\\MenuItemController.cs",
-              "RelativeDocumentMoniker": "DineMaster\\Controllers\\MenuItemController.cs",
-              "ToolTip": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\DineMaster\\Controllers\\MenuItemController.cs",
-              "RelativeToolTip": "DineMaster\\Controllers\\MenuItemController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBYAAAAlAAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\appsettings.json",
+              "RelativeDocumentMoniker": "DineMaster\\appsettings.json",
+              "ToolTip": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\appsettings.json",
+              "RelativeToolTip": "DineMaster\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-26T17:13:00.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Program.cs",
+              "RelativeDocumentMoniker": "DineMaster\\Program.cs",
+              "ToolTip": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Program.cs",
+              "RelativeToolTip": "DineMaster\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T11:26:54.187Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 191,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "WhenOpened": "2025-06-26T17:12:30.632Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DineMasterDbContext.cs",
+              "DocumentMoniker": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Data\\DineMasterDbContext.cs",
+              "RelativeDocumentMoniker": "DineMaster\\Data\\DineMasterDbContext.cs",
+              "ToolTip": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Data\\DineMasterDbContext.cs",
+              "RelativeToolTip": "DineMaster\\Data\\DineMasterDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wBYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T17:07:26.975Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Purchase.cs",
+              "DocumentMoniker": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Models\\Purchase.cs",
+              "RelativeDocumentMoniker": "DineMaster\\Models\\Purchase.cs",
+              "ToolTip": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Models\\Purchase.cs",
+              "RelativeToolTip": "DineMaster\\Models\\Purchase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:49:40.004Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PurchaseItem.cs",
+              "DocumentMoniker": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Models\\PurchaseItem.cs",
+              "RelativeDocumentMoniker": "DineMaster\\Models\\PurchaseItem.cs",
+              "ToolTip": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Models\\PurchaseItem.cs",
+              "RelativeToolTip": "DineMaster\\Models\\PurchaseItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:51:25.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "DineMaster\\Models\\Order.cs",
+              "ToolTip": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Models\\Order.cs",
+              "RelativeToolTip": "DineMaster\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:35:32.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "DineMaster\\Models\\OrderItem.cs",
+              "ToolTip": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Models\\OrderItem.cs",
+              "RelativeToolTip": "DineMaster\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:36:04.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShiftMaster.cs",
+              "DocumentMoniker": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Models\\ShiftMaster.cs",
+              "RelativeDocumentMoniker": "DineMaster\\Models\\ShiftMaster.cs",
+              "ToolTip": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Models\\ShiftMaster.cs",
+              "RelativeToolTip": "DineMaster\\Models\\ShiftMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:52:33.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StaffShift.cs",
+              "DocumentMoniker": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Models\\StaffShift.cs",
+              "RelativeDocumentMoniker": "DineMaster\\Models\\StaffShift.cs",
+              "ToolTip": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Models\\StaffShift.cs",
+              "RelativeToolTip": "DineMaster\\Models\\StaffShift.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:53:04.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReservationSlot.cs",
+              "DocumentMoniker": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Models\\ReservationSlot.cs",
+              "RelativeDocumentMoniker": "DineMaster\\Models\\ReservationSlot.cs",
+              "ToolTip": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Models\\ReservationSlot.cs",
+              "RelativeToolTip": "DineMaster\\Models\\ReservationSlot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:31:34.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "DineMaster\\Models\\Reservation.cs",
+              "ToolTip": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Models\\Reservation.cs",
+              "RelativeToolTip": "DineMaster\\Models\\Reservation.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:32:05.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DineMaster\\Models\\User.cs",
+              "ToolTip": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Models\\User.cs",
+              "RelativeToolTip": "DineMaster\\Models\\User.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:27:42.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Models\\Bill.cs",
+              "RelativeDocumentMoniker": "DineMaster\\Models\\Bill.cs",
+              "ToolTip": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Models\\Bill.cs",
+              "RelativeToolTip": "DineMaster\\Models\\Bill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:45:42.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "DineMaster\\Models\\Supplier.cs",
+              "ToolTip": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Models\\Supplier.cs",
+              "RelativeToolTip": "DineMaster\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:48:13.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InventoryItem.cs",
+              "DocumentMoniker": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Models\\InventoryItem.cs",
+              "RelativeDocumentMoniker": "DineMaster\\Models\\InventoryItem.cs",
+              "ToolTip": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Models\\InventoryItem.cs",
+              "RelativeToolTip": "DineMaster\\Models\\InventoryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:34:31.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MenuItemIngredient.cs",
+              "DocumentMoniker": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Models\\MenuItemIngredient.cs",
+              "RelativeDocumentMoniker": "DineMaster\\Models\\MenuItemIngredient.cs",
+              "ToolTip": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Models\\MenuItemIngredient.cs",
+              "RelativeToolTip": "DineMaster\\Models\\MenuItemIngredient.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:35:03.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "DineMaster\\Models\\MenuItem.cs",
+              "ToolTip": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Models\\MenuItem.cs",
+              "RelativeToolTip": "DineMaster\\Models\\MenuItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:34:01.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MenuCategory.cs",
+              "DocumentMoniker": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Models\\MenuCategory.cs",
+              "RelativeDocumentMoniker": "DineMaster\\Models\\MenuCategory.cs",
+              "ToolTip": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Models\\MenuCategory.cs",
+              "RelativeToolTip": "DineMaster\\Models\\MenuCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:33:36.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Table.cs",
+              "DocumentMoniker": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Models\\Table.cs",
+              "RelativeDocumentMoniker": "DineMaster\\Models\\Table.cs",
+              "ToolTip": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Models\\Table.cs",
+              "RelativeToolTip": "DineMaster\\Models\\Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:29:37.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Models\\Unit.cs",
+              "RelativeDocumentMoniker": "DineMaster\\Models\\Unit.cs",
+              "ToolTip": "D:\\Shakil\\Masstech\\DineMaster\\DineMaster\\Models\\Unit.cs",
+              "RelativeToolTip": "DineMaster\\Models\\Unit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:33:04.408Z"
             }
           ]
         }

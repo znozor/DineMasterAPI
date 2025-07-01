@@ -1,6 +1,5 @@
 {
   "Version": 1,
-<<<<<<< Updated upstream
   "WorkspaceRootPath": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\",
   "Documents": [
     {
@@ -142,45 +141,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\91639\\onedrive\\documents\\github\\dinemasterapi\\dinemaster\\dinemaster\\migrations\\20250628195626_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\migrations\\20250628195626_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-  "WorkspaceRootPath": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\gandhar\\downloads\\dinemasterapi\\dinemaster\\dinemaster\\models\\menuitemingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\models\\menuitemingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\gandhar\\downloads\\dinemasterapi\\dinemaster\\dinemaster\\mapper\\mappingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\mapper\\mappingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\gandhar\\downloads\\dinemasterapi\\dinemaster\\dinemaster\\controllers\\menuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\controllers\\menuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\gandhar\\downloads\\dinemasterapi\\dinemaster\\dinemaster\\service\\menuitemservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\service\\menuitemservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\gandhar\\downloads\\dinemasterapi\\dinemaster\\dinemaster\\repository\\imenuitemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\repository\\imenuitemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\gandhar\\downloads\\dinemasterapi\\dinemaster\\dinemaster\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\gandhar\\downloads\\dinemasterapi\\dinemaster\\dinemaster\\dto\\menuitemupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\dto\\menuitemupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\gandhar\\downloads\\dinemasterapi\\dinemaster\\dinemaster\\dto\\menuitemcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\dto\\menuitemcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|c:\\users\\gandhar\\downloads\\dinemasterapi\\dinemaster\\dinemaster\\dto\\menuitemreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA3A7794-90E6-4C85-A180-2DB5C2EA0C5A}|DineMaster\\DineMaster.csproj|solutionrelative:dinemaster\\dto\\menuitemreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -190,16 +150,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< Updated upstream
           "SelectedChildIndex": 21,
-=======
-          "SelectedChildIndex": 11,
->>>>>>> Stashed changes
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:1578389772:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
-<<<<<<< Updated upstream
             },
             {
               "$type": "Bookmark",
@@ -306,66 +261,11 @@
               "ViewState": "AQIAAAsBAAAAAAAAAAAAwBQBAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-29T10:56:05.6Z",
-=======
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MenuItemIngredient.cs",
-              "DocumentMoniker": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\DineMaster\\Models\\MenuItemIngredient.cs",
-              "RelativeDocumentMoniker": "DineMaster\\Models\\MenuItemIngredient.cs",
-              "ToolTip": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\DineMaster\\Models\\MenuItemIngredient.cs",
-              "RelativeToolTip": "DineMaster\\Models\\MenuItemIngredient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T18:35:19.477Z",
->>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-<<<<<<< Updated upstream
               "Title": "IReservationRepo.cs",
               "DocumentMoniker": "C:\\Users\\91639\\OneDrive\\Documents\\GitHub\\DineMasterAPI\\DineMaster\\DineMaster\\Repository\\IReservationRepo.cs",
               "RelativeDocumentMoniker": "DineMaster\\Repository\\IReservationRepo.cs",
@@ -728,123 +628,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T16:33:04.408Z"
-=======
-              "Title": "MenuItemServices.cs",
-              "DocumentMoniker": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\DineMaster\\Service\\MenuItemServices.cs",
-              "RelativeDocumentMoniker": "DineMaster\\Service\\MenuItemServices.cs",
-              "ToolTip": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\DineMaster\\Service\\MenuItemServices.cs",
-              "RelativeToolTip": "DineMaster\\Service\\MenuItemServices.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwCIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T11:24:30.354Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IMenuItemRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\DineMaster\\Repository\\IMenuItemRepo.cs",
-              "RelativeDocumentMoniker": "DineMaster\\Repository\\IMenuItemRepo.cs",
-              "ToolTip": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\DineMaster\\Repository\\IMenuItemRepo.cs",
-              "RelativeToolTip": "DineMaster\\Repository\\IMenuItemRepo.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T11:24:27.28Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MenuItemCreateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\DineMaster\\DTO\\MenuItemCreateDTO.cs",
-              "RelativeDocumentMoniker": "DineMaster\\DTO\\MenuItemCreateDTO.cs",
-              "ToolTip": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\DineMaster\\DTO\\MenuItemCreateDTO.cs",
-              "RelativeToolTip": "DineMaster\\DTO\\MenuItemCreateDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T11:26:59.813Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MenuItemReadDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\DineMaster\\DTO\\MenuItemReadDTO.cs",
-              "RelativeDocumentMoniker": "DineMaster\\DTO\\MenuItemReadDTO.cs",
-              "ToolTip": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\DineMaster\\DTO\\MenuItemReadDTO.cs",
-              "RelativeToolTip": "DineMaster\\DTO\\MenuItemReadDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T11:27:01.02Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MenuItem.cs",
-              "DocumentMoniker": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\DineMaster\\Models\\MenuItem.cs",
-              "RelativeDocumentMoniker": "DineMaster\\Models\\MenuItem.cs",
-              "ToolTip": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\DineMaster\\Models\\MenuItem.cs",
-              "RelativeToolTip": "DineMaster\\Models\\MenuItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T11:30:28.675Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MenuItemUpdateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\DineMaster\\DTO\\MenuItemUpdateDTO.cs",
-              "RelativeDocumentMoniker": "DineMaster\\DTO\\MenuItemUpdateDTO.cs",
-              "ToolTip": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\DineMaster\\DTO\\MenuItemUpdateDTO.cs",
-              "RelativeToolTip": "DineMaster\\DTO\\MenuItemUpdateDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T11:27:02.146Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MappingData.cs",
-              "DocumentMoniker": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\DineMaster\\Mapper\\MappingData.cs",
-              "RelativeDocumentMoniker": "DineMaster\\Mapper\\MappingData.cs",
-              "ToolTip": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\DineMaster\\Mapper\\MappingData.cs",
-              "RelativeToolTip": "DineMaster\\Mapper\\MappingData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T11:27:10.718Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MenuItemController.cs",
-              "DocumentMoniker": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\DineMaster\\Controllers\\MenuItemController.cs",
-              "RelativeDocumentMoniker": "DineMaster\\Controllers\\MenuItemController.cs",
-              "ToolTip": "C:\\Users\\Gandhar\\Downloads\\DineMasterAPI\\DineMaster\\DineMaster\\Controllers\\MenuItemController.cs",
-              "RelativeToolTip": "DineMaster\\Controllers\\MenuItemController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBYAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T11:26:54.187Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 191,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
->>>>>>> Stashed changes
             }
           ]
         }
